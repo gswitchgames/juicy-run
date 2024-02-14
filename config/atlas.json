@@ -1,0 +1,53 @@
+{
+    "des": [
+        "[type]   类型： 水果文件名的序号，识别是哪个水果",
+        "[count]   数量    ",
+        "[bossType]   BOSS文件名的序号，识别是哪个BOSS    ",
+        "[bossName]   BOSS名字    ",
+        "[describe]   解锁条件的文字描述    "
+    ],
+    "atlas": [
+        {
+            "type": "9",
+            "count": 50,
+            "bossType": 4,
+            "bossName": "Green Pear",
+            "describe": "Fragrant Pear"
+        },
+        {
+            "type": "2",
+            "count": 80,
+            "bossType": 2,
+            "bossName": "Banana Brother",
+            "describe": "Bananas"
+        },
+        {
+            "type": "1,0",
+            "count": 100,
+            "bossType": 1,
+            "bossName": "Apple Lord",
+            "describe": "Apples"
+        },
+        {
+            "type": "18",
+            "count": 150,
+            "bossType": 5,
+            "bossName": "Naughty Tomato",
+            "describe": "Tomatoes"
+        },
+        {
+            "type": "17",
+            "count": 200,
+            "bossType": 6,
+            "bossName": "Big Eye Strawberry",
+            "describe": "Strawberries"
+        },
+        {
+            "type": "14",
+            "count": 300,
+            "bossType": 3,
+            "bossName": "Pineapple Fat",
+            "describe": "Pineapples"
+        }
+    ]
+}

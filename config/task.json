@@ -1,0 +1,157 @@
+{
+    "des": [
+        "[type]   道具类型： 1：金币   2：钻石 3：皮肤",
+        "[field]   其他字段：  count：数量  rate：权重  ",
+        "[taskType]  任务类型：  boss：成功通关*个BOSS关卡  level：成功通关*个普通关卡   unlock：解锁*个皮肤    upgrade：升级*次（蓄力速度、齿轮时间、分数加成）  coconut：关卡中切开**个椰子 lemon：关卡中切开**个柠檬  watermelon：关卡中切开**个西瓜  strawberry：关卡中切开**个草莓  "
+    ],
+    "boss": [
+        {
+            "count": 1,
+            "rate": 21
+        },
+        {
+            "count": 3,
+            "rate": 20
+        },
+        {
+            "count": 5,
+            "rate": 15
+        }
+    ],
+    "level": [
+        {
+            "count": 5,
+            "rate": 21
+        },
+        {
+            "count": 10,
+            "rate": 20
+        },
+        {
+            "count": 20,
+            "rate": 15
+        }
+    ],
+    "unlock": [
+        {
+            "count": 1,
+            "rate": 17
+        },
+        {
+            "count": 2,
+            "rate": 20
+        },
+        {
+            "count": 3,
+            "rate": 23
+        }
+    ],
+    "upgrade": [
+        {
+            "count": 3,
+            "rate": 21
+        },
+        {
+            "count": 5,
+            "rate": 20
+        },
+        {
+            "count": 10,
+            "rate": 23
+        }
+    ],
+    "coconut": [
+        {
+            "count": 10,
+            "rate": 5
+        },
+        {
+            "count": 20,
+            "rate": 5
+        },
+        {
+            "count": 40,
+            "rate": 6
+        }
+    ],
+    "lemon": [
+        {
+            "count": 10,
+            "rate": 5
+        },
+        {
+            "count": 20,
+            "rate": 5
+        },
+        {
+            "count": 40,
+            "rate": 6
+        }
+    ],
+    "watermelon": [
+        {
+            "count": 10,
+            "rate": 5
+        },
+        {
+            "count": 20,
+            "rate": 5
+        },
+        {
+            "count": 40,
+            "rate": 6
+        }
+    ],
+    "strawberry": [
+        {
+            "count": 10,
+            "rate": 5
+        },
+        {
+            "count": 20,
+            "rate": 5
+        },
+        {
+            "count": 40,
+            "rate": 6
+        }
+    ],
+    "describe": [
+        "Complete ** BOSS level",
+        "Complete ** normal level",
+        "Unlock ** skin",
+        "Upgrade ** time today",
+        "Cut ** coconut in the level",
+        "Cut ** lemon in the level",
+        "Cut ** watermelon in the level",
+        "Cut ** strawberry in the level"
+    ],
+    "describes": [
+        "Complete ** BOSS levels",
+        "Complete ** normal levels",
+        "Unlock ** skins",
+        "Upgrade ** times today",
+        "Cut ** coconuts in the level",
+        "Cut ** lemons in the level",
+        "Cut ** watermelons in the level",
+        "Cut ** strawberries in the level"
+    ],
+    "reward": [
+        {
+            "type": 1,
+            "count": 300
+        },
+        {
+            "type": 1,
+            "count": 500
+        },
+        {
+            "type": 1,
+            "count": 1000
+        },
+        {
+            "type": 1,
+            "count": 2000
+        }
+    ]
+}
